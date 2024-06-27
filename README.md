@@ -1,6 +1,6 @@
-<div style="text-align: center; font-size: xx-large; font-family: serif">
+<!--div style="text-align: center; font-size: xx-large; font-family: serif">
 Rakesh Bute
-</div>
+</div-->
 <div style="text-align: center; font-family: serif">
 Sarjapura, Bangalore - 562125 | +91 xxxxxxxxxx | xxxxxxxxxx@gmail.com | June 2024
 </div>
