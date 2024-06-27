@@ -2,7 +2,7 @@
 Rakesh Bute
 </div>
 <div style="text-align: center; font-family: serif">
-Sarjapura, Bangalore - 562125 | +91 7077681144 | rakeshbute@gmail.com | June 2024
+Sarjapura, Bangalore - 562125 | +91 xxxxxxxxxx | xxxxxxxxxx@gmail.com | June 2024
 </div>
 <hr>
 
